@@ -1,0 +1,67 @@
+[
+    {
+        "content": "6月5日，在第二届移动网络高质量发展论坛上，工信部发布了2022年全国重点场所移动网络质量评测排名，中国移动浙江公司荣获“重点区域移动网络质量卓越运营商”称号",
+        "isRelated": "相关",
+        "analysis": {
+            "sentiment": "Sentiment of public opinion: The sentiment of the public opinion is positive.",
+            "province": "Province: The public opinion belongs to China.",
+            "keywords": "Keywords: 2022年全国重点场所移动网络质量评测排名, 中国移动浙江公司, “重点区域移动网络质量卓越运营商”。",
+            "businessDetails": "Business details: The public opinion mentions that the Ministry of Industry and Information Technology has released the 2022 national key areas mobile network quality testing rankings, and China Mobile Zhejiang Company has won the title of \"National Key Areas Mobile Network Quality Excellent Operator\".",
+            "impactOnUsers": "Impacts on users: The news is likely to have a positive impact on users, as it indicates that China Mobile Zhejiang Company provides high-quality mobile network services in key areas.",
+            "isMajor": "Is it a major public opinion? The public opinion does not necessarily qualify as a major public opinion, but it is still an important one due to its recognition of the excellent quality of mobile network services provided by China Mobile Zhejiang Company.",
+            "manualFollowUp": "Does it require manual follow-up and resolution? The public opinion itself does not require manual follow-up and resolution, but it may generate further discussion and analysis among stakeholders in the industry."
+        }
+    },
+    {
+        "content": "5月24日报道，江苏连云港。举报人小佳称自己是移动公司的渠道老板（即合作营业厅负责人），刘某经常约她吃饭，她都没去，“2020年8月被他关了工号，不得不去赴约，随后发生了迷奸。”她称事后发现怀孕后，“因为有家庭，我忍了，做了流产手术”，但之后不仅被威胁勒索，穿小鞋，其所开店铺还被刘某手下砸了，无奈之下才愤而举报。对此，刘某、颜某均表示小佳系诽谤，已报案。刘某称小佳不是公司员工，因她有两笔电话涉诈，按要求要关她的营业厅，“之后她就去纪委说我贪图美色，但没有证据。”颜某则称聊天截图都是假的。中国移动连云港分公司综合部相关负责人表示，“要等警方查实，若举报属实，一切都依法依规办理",
+        "isRelated": "相关",
+        "analysis": {
+            "sentiment": "The sentiment of public opinion is negative.",
+            "province": "The public opinion belongs to the province of Jiangsu.",
+            "keywords": "The key words in the public opinion are \"报道\", \"江苏连云港\", \"举报人\", \"移动公司\", \"渠道老板\", \"刘某\", \"约她\", \"流产手术\", \"威胁勒索\", \"迷奸\", \"愤而举报\".",
+            "businessDetails": "The business details involved in the public opinion are a report of a woman named Xiao Jia, who is the channel director (a sales agent) of a mobile company in Jiangsu, China. Xiao Jia accused the company's general manager, Mr. Liu, of harassing and threatening her. She also claimed that she became pregnant and had an abortion after being threatened by Liu, and that her storefront was vandalized by Liu's accomplices.",
+            "impactOnUsers": "The impact of the public opinion on users may be significant, as it raises questions about the behavior of the general manager of the mobile company and the company's treatment of its employees. It may also raise concerns about workplace harassment and discrimination.",
+            "isMajor": "The public opinion may or may not constitute a major public opinion, depending on the extent of its dissemination and the public's interest in the matter.",
+            "manualFollowUp": "The public opinion may require manual follow-up and resolution, such as an investigation by the police or other authorities to determine the truth of Xiao Jia's allegations. It is also possible that the company may need to take action to address the situation, such as firing the general manager or implementing new policies to prevent workplace harassment and discrimination."
+        }
+    },
+    {
+        "content": "近日，中国移动山东公司充分发挥5G、云网、大数据等信息化优势，借助数字技术赋能传统农业。在临沂市沂水县诸葛镇的九岭现代农业观赏鱼产业园，中国移动山东公司通过部署视频监控、水质智能检测设备，打造“5G+智慧渔业管理平台”，对养殖水质、鱼类生长状况、废水处理等进行实时监测，形成“企业+镇联合作社+村合作社+农户”的渔业养殖生产模式。按当前市场价30-45元/尾计算，可带动农户增收75.6万元。",
+        "isRelated": "相关",
+        "analysis": {
+            "sentiment": "The sentiment of public opinion is positive.",
+            "province": "The public opinion belongs to the province of China Mobile Shandong Company.",
+            "keywords": "The key words in the public opinion are \"5G\", \"云网\", \"大数据\", \"信息化\", \"农业\", \"渔业\", \"智慧渔业管理平台\", \"养殖水质\", \"鱼类生长状况\", \"废水处理\", \"企业+镇联合作社+村合作社+农户\".",
+            "businessDetails": "The business details involved in the public opinion are the use of 5G, cloud network, big data, and informationization to enable traditional agriculture, the establishment of a \"5G+Smart Fishery Management Platform\" to monitor water quality, fish growth, and wastewater treatment, and the creation of a cooperative model involving \"enterprises, towns, village organizations, and farmers\".",
+            "impactOnUsers": "The impacts of public opinion on users are not explicitly stated, but the public opinion highlights the potential for increased income for farmers through the use of modern technology in fish farming.",
+            "isMajor": "The public opinion does not necessarily constitute a major public opinion, as it is a specific example of how a company is using technology to benefit a particular industry.",
+            "manualFollowUp": "The public opinion does not require manual follow-up and resolution, as it is a factual and informative statement about a specific business initiative."
+        }
+    },
+    {
+        "content": "近日，以“相约天马故乡 共叙丝路神话”为主题的2023中国新疆伊犁天马国际旅游节正式开幕。开幕式上，万马奔腾、一骑绝尘，文艺表演异彩纷呈。中国移动新疆公司提前布局，对现场周边干道、灯会展区等网络高频使用场景进行巡检、优化，并设置网络专线，确保现场1500余台无人机表演顺畅。活动期间，累计配备3辆应急保障车辆、5名应急保障人员，开通1个5G基站，确保活动现场用户感知良好、网络平稳通畅，切实为兴疆战略注智赋能。",
+        "isRelated": "相关",
+        "analysis": {
+            "sentiment": "The sentiment of the public opinion is positive, as it describes the opening of the 2023 China Xinjiang Ili International Tourism Festival with the theme of \"Taming the Sky with Thunder and Shooting the Rainbow\".",
+            "province": "The public opinion belongs to a province in China, which is not specified in the text.",
+            "keywords": "The key words in the public opinion are \"2023 China Xinjiang Ili International Tourism Festival\", \"taming the sky with thunder and shooting the rainbow\", \"1500 robotic cars\", \"5G base station\", \"Ili River\", \"Turkic mythology\", \"Shihezi\", and \"Tianshan\".",
+            "businessDetails": "The business details involved in the public opinion include the preparation of the festival, the use of 1500 robotic cars, the setting up of a 5G base station, and the provision of an emergency response team.",
+            "impactOnUsers": "The impact of the public opinion on users is not specified in the text.",
+            "isMajor": "The public opinion does not constitute a major public opinion.",
+            "manualFollowUp": "The public opinion does not require manual follow-up and resolution."
+        }
+    },
+    {
+        "content": "4 月17日上午，中国移动最新市值超越贵州茅台，成 A 股市值最大公司。截至发稿，中国移动 A 股总市值 2.184 万亿，贵州茅台总市值 2.171 万亿。这对 A 股来说是一个历史性时刻。上一次出现这样的时刻还是在 2020 年 4 月，彼时贵州茅台以约 1.5 万亿的市值超越工商银行，成为 A 股市值第一，此后 3 年这一位置未曾变动。今年以来，不止中国移动，A 股其他运营商巨头股价也开启“狂飙”模式。除业绩支撑外，三大运营商近期均先后宣布将实施高比例现金分红。",
+        "isRelated": "相关",
+        "analysis": {
+            "sentiment": "The sentiment of public opinion is positive.",
+            "province": "The public opinion belongs to China.",
+            "keywords": "The key words in the public opinion are \"China Mobile\", \"A-share\", \"market value\", \"surpassed\", \"GDP\", \"historical\", \"shares\", \"operating giants\", \"high percentage cash dividends\", and \"scheduled\".",
+            "businessDetails": "The business details involved in the public opinion are the market value of China Mobile and the market value of Guizhou Mobile.",
+            "impactOnUsers": "The impact of the public opinion on users is not specified.",
+            "isMajor": "The public opinion does not constitute a major public opinion.",
+            "manualFollowUp": "The public opinion does not require manual follow-up and resolution."
+        }
+    }
+]
